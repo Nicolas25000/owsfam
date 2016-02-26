@@ -162,7 +162,7 @@
 .page-type-article  #page,
 .page-home #page {
 	overflow: inherit;
-	width: 722px;
+	width: 1000px;
 	padding: 0px;
 	left: 3px;
 }
