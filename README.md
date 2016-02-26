@@ -1,5 +1,6 @@
-# Owson Family - Thème DarkRP pour Evo-CMS
+# Owson Family - Thème DarkRP
 
 Merci de contibué au thème.
 
-[A VENIR]
+Afin d'améliorer notre serveur et de contribué au projet Evo-CMS, voici le thème DarkRP.
+Nous vous invitons à amméliorer le thème pour le rendre sur une base qui correspond le plus au DarkRP.
